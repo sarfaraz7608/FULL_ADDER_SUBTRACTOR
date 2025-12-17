@@ -55,13 +55,13 @@ full adder
 ```
 full subtracter
 ```
-<img width="1920" height="1080" alt="Screenshot 2025-12-17 104320" src="https://github.com/user-attachments/assets/6af7c711-4465-4e1e-9857-d527bb44791d" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 104627" src="https://github.com/user-attachments/assets/79d049fa-bab1-4147-88c0-f2ff9a286779" />
 
 **Output Timing Waveform**
 ```
 full adder
 ```
-<img width="1920" height="1080" alt="Screenshot 2025-12-17 104627" src="https://github.com/user-attachments/assets/79d049fa-bab1-4147-88c0-f2ff9a286779" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 104320" src="https://github.com/user-attachments/assets/6af7c711-4465-4e1e-9857-d527bb44791d" />
 
 ```
 full subtractor
@@ -72,5 +72,6 @@ full subtractor
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 104627" src="https://github.com/user-attachments/assets/79d049fa-bab1-4147-88c0-f2ff9a286779" />
 
 
